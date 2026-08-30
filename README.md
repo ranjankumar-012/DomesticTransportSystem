@@ -17,6 +17,3 @@ The project is built using **HTML**, **CSS**, **JavaScript**, and includes clien
 - **CSS3**: Used for styling the web pages, ensuring a clean and professional design.
 - **JavaScript**: Used for front-end logic, including form validation and interactive UI elements.
 - **Bootstrap 5**: Used for responsive design to ensure compatibility across different screen sizes.
-
-## File Structure:
-The project consists of the following files and directories:
